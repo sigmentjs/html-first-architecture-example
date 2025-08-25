@@ -1,0 +1,13 @@
+<layout data-layout="layouts/index.html"></layout>
+<description data-description="Counter page description"></description>
+<keywords data-keywords="counter,signal,state"></keywords>
+<script type="module" src="/bundle.js"></script>
+
+<div data-part="sectionA">
+  <h1>Counters Demo mixed ssr with non ssr 
+          (last counter is non ssr when you refresh you will notice the diffrence)</h1>
+  <p>Each counter is independent:</p>
+  <div data-component="Counter" runAtServer></div>
+  <div data-component="Counter" runAtServer></div>
+  <div data-component="Counter"></div>
+</div>
