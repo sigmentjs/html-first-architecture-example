@@ -81,3 +81,8 @@ npm run dev
 ## License
 
 MIT
+
+## Learn More
+
+Want to understand how this architecture works in depth?  
+Read the full article on Dev.to: [HTML-First Multi-Part Application Architecture](https://dev.to/yanivsuzana/html-firstwhy-i-built-my-own-html-first-multi-part-application-architecture-and-you-might-want-to-360e)
