@@ -11,8 +11,8 @@ function Counter() {
 
 
   return div({ class:"wdt" },
-    button({ onClick: () => setCount(count() + 1) }, "Increment"),
-    p(() => `Count is: ${count()}`)
+    button({ onClick: () => setCount(count + 1) }, "Increment"),
+    p('Count is:', count)
   );
 }
 
