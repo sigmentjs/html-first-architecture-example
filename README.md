@@ -1,6 +1,8 @@
 
 # HTML-First Architecture Example
 
+[![Discord](https://img.shields.io/badge/Discord-Join%20Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dqRRen9t)
+
 This repository demonstrates a custom **HTML-First architecture** with **Multi-Part Applications (MPA)** using [Sigment](https://github.com/sigmentjs/sigment).
 
 - Pages are built from simple HTML with placeholders (`<layout>`, `<div data-part>`, `<div data-component>`).  
